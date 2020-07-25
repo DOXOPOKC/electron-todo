@@ -1,0 +1,26 @@
+{
+  "name": "electron-todo",
+  "version": "1.0.0",
+  "description": "simple todo electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOXOPOKC/electron-todo.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "doxopokc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DOXOPOKC/electron-todo/issues"
+  },
+  "homepage": "https://github.com/DOXOPOKC/electron-todo#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
